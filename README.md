@@ -2,6 +2,7 @@
 This is the account that I use almost exclusively for deliver content in sessions and some other things that may not have explanation yet.
 - 🔭 I’m currently working on PictureSocial a content series about containers, kubernetes and AI on AWS
 - 🌱 I’m currently learning lot of new things about AWS so feel free to ask me and we may learn together :)
+- 📫 How to reach me: Go to my [Linktree](https://linktr.ee/develozombie)
 
 <!--
 **jyapurv/jyapurv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
